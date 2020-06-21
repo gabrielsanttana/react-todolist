@@ -1,4 +1,4 @@
-# <div>📋 React Todolist</div>
+# <div align="center">📋 React Todolist</div>
 
 <p align="center">A simple, volatile to-do list application built with React and React Hooks 📋</p>
 
