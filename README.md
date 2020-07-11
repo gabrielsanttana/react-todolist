@@ -1,4 +1,4 @@
-# React Todolist 📕
+# <div align="center">React Todolist</div> 📕
 
 <img src="./.github/main.png" />
 
