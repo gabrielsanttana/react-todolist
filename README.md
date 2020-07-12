@@ -1,4 +1,4 @@
-# <div align="center">React To-do List 📋</div>
+# <div align="center">React To-Do List 📋</div>
 
 <img src="./.github/main.png" />
 
