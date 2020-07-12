@@ -1,8 +1,8 @@
-# <div align="center">React Todolist 📕</div>
+# <div align="center">React To-do List 📋</div>
 
 <img src="./.github/main.png" />
 
-<p align="center">A simple, volatile to-do list application built with React and Hooks 📕</p>
+<p align="center">A simple, volatile to-do list application built with React and Hooks 📋</p>
 
 ## ⚙️ Requirements
 
